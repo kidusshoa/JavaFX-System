@@ -1,0 +1,7 @@
+# First implement the sql from the mysql folder.
+
+# then, open the java folder in apache netbeans.
+
+# then, download the mysql connector and add it to the project.
+
+# Finally, launch the program from runner class.
